@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+}  
+
+header{
+
+    height: 20vh;
+    background-color: #93B5C9;
+    clear: both;
+    
+}
+section{
+    height: 28vh;
+    background-color:#AB2849;
+    clear: both;
+}
+
+div{
+    width: 800px;
+    height: 20px;
+    float: left;
+    background-color:#AB2849;
+    margin: 15px 0 15px 0;
+    padding: 100px;
+    clear: right;
+    
+    
+
+}
+footer{
+    clear: both;
+    background-color:#AB2849;
+    margin: 0 15px 0 15px;
+    padding: 50px;
+
+}
